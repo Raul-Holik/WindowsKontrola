@@ -1,0 +1,12 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\bin\Debug\WindowsKontrola.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\bin\Debug\WindowsKontrola.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\bin\Debug\WindowsKontrola.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\WindowsKontrola\WindowsKontrola\obj\Debug\WindowsKontrola.Text.resources
